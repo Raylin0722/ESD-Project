@@ -1,0 +1,4 @@
+bluezero==0.7.1
+psutil
+RPi.GPIO
+spidev
